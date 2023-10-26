@@ -324,6 +324,7 @@ nav.fas{
         background-image: url(phone-background.png.jpeg);
     }
     .header-text{
+        color: #000000;
         margin-top: 100%;
         font-size: 16px;
     }
